@@ -1,0 +1,277 @@
+﻿{
+    "downloaded":  [
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/about.PNG",
+                           "path":  "/images/gallery/about-workshop.PNG",
+                           "bytes":  257592
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/banner/1.png",
+                           "path":  "/images/banners/banner-1.png",
+                           "bytes":  190009
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/banner/2.png",
+                           "path":  "/images/banners/banner-2.png",
+                           "bytes":  186427
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/banner/3.png",
+                           "path":  "/images/banners/banner-3.png",
+                           "bytes":  226706
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/feature-1.png",
+                           "path":  "/images/features/feature-1.png",
+                           "bytes":  1346
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/feature-2.png",
+                           "path":  "/images/features/feature-2.png",
+                           "bytes":  1713
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/feature-3.png",
+                           "path":  "/images/features/feature-3.png",
+                           "bytes":  1848
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/logo_1.png",
+                           "path":  "/icons/logo.png",
+                           "bytes":  50336
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/assets/images/whatsapplogo.webp",
+                           "path":  "/icons/whatsapp.webp",
+                           "bytes":  2158
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/10f7bbc4a2132a17984365c0e748e41d.jpg",
+                           "path":  "/images/products/product-01-10f7bbc4.jpg",
+                           "bytes":  27451
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/14f0d56f4517af102064063073325beb.jpg",
+                           "path":  "/images/products/product-02-14f0d56f.jpg",
+                           "bytes":  27451
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/1550e836a47efe595b117bfa26bc40eb.jpg",
+                           "path":  "/images/products/product-03-1550e836.jpg",
+                           "bytes":  453018
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/186faeb6a404ccd3ce81b2bceb487a87.jpg",
+                           "path":  "/images/products/product-04-186faeb6.jpg",
+                           "bytes":  87731
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/19ae1d289f751f9e6a3e18bd6404e1a3.jpg",
+                           "path":  "/images/products/product-05-19ae1d28.jpg",
+                           "bytes":  95562
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/1a5e04551f227553dbe02b9d009147fe.jpg",
+                           "path":  "/images/products/product-06-1a5e0455.jpg",
+                           "bytes":  114432
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/1b13c559e77cc9e21822df9515542156.jpg",
+                           "path":  "/images/products/product-07-1b13c559.jpg",
+                           "bytes":  127232
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/24421842f9438506932688d25b83c9ff.jpg",
+                           "path":  "/images/products/product-08-24421842.jpg",
+                           "bytes":  114432
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/244c4fd8d4787e05831e5af02cb4df3b.jpg",
+                           "path":  "/images/products/product-09-244c4fd8.jpg",
+                           "bytes":  517329
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/44193785b0da6396bd6f297efbd9dd71.jpg",
+                           "path":  "/images/products/product-10-44193785.jpg",
+                           "bytes":  177564
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/4472e60e002042df21b84d4ac288c65e.jpg",
+                           "path":  "/images/products/product-11-4472e60e.jpg",
+                           "bytes":  235968
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/4478295358b15e06768b6b82bd4f1d4f.jpg",
+                           "path":  "/images/products/product-12-44782953.jpg",
+                           "bytes":  448982
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/47a74a0851d36864142f065685094fff.jpg",
+                           "path":  "/images/products/product-13-47a74a08.jpg",
+                           "bytes":  118102
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/4a1d956a7f4f5b0de59095638922457b.jpg",
+                           "path":  "/images/products/product-14-4a1d956a.jpg",
+                           "bytes":  174998
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/58c2530e1b3d205c9613bbf6abc4509b.jpg",
+                           "path":  "/images/products/product-15-58c2530e.jpg",
+                           "bytes":  522420
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/6105e47752c47cbf137fd5d1a5c2d678.jpg",
+                           "path":  "/images/products/product-16-6105e477.jpg",
+                           "bytes":  182334
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/6295b413d3a967f3d930dfe821c12529.jpg",
+                           "path":  "/images/products/product-17-6295b413.jpg",
+                           "bytes":  127232
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/7e8c29b04d7651be15bbd9c167fcc94b.jpg",
+                           "path":  "/images/products/product-18-7e8c29b0.jpg",
+                           "bytes":  87731
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/7ea03d8f83c7f78466d988a67a9da560.jpg",
+                           "path":  "/images/products/product-19-7ea03d8f.jpg",
+                           "bytes":  212300
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/814b0475e2adba4de5158d32c1aa0eb7.jpg",
+                           "path":  "/images/products/product-20-814b0475.jpg",
+                           "bytes":  262266
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/838976b13cd9d0fbe2b93cc791fb7dde.jpg",
+                           "path":  "/images/products/product-21-838976b1.jpg",
+                           "bytes":  95562
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/85899ff68e8097c9d37b3e173e128208.jpg",
+                           "path":  "/images/products/product-22-85899ff6.jpg",
+                           "bytes":  50431
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/858a597064432f4c382f3f26885dbdda.jpg",
+                           "path":  "/images/products/product-23-858a5970.jpg",
+                           "bytes":  103111
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/8d3e69d37270d1f6eebd0349bd4f29d3.jpg",
+                           "path":  "/images/products/product-24-8d3e69d3.jpg",
+                           "bytes":  636132
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/8d7db4624a64a1770dd617d115ad8a3e.jpg",
+                           "path":  "/images/products/product-25-8d7db462.jpg",
+                           "bytes":  19637
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/94e534ae851ccdc6bd7b5b32ac6119cf.jpg",
+                           "path":  "/images/products/product-26-94e534ae.jpg",
+                           "bytes":  155068
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/978b983de7af4205f7cbff8ba1bf8b40.jpg",
+                           "path":  "/images/products/product-27-978b983d.jpg",
+                           "bytes":  104385
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/9917d7c5f0974e26c4f9439b3c0c793f.jpg",
+                           "path":  "/images/products/product-28-9917d7c5.jpg",
+                           "bytes":  96168
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/ab8391e53fffa8c44f6f7a24cf9b7473.jpg",
+                           "path":  "/images/products/product-29-ab8391e5.jpg",
+                           "bytes":  172815
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/ac421854f4090fd7f000186003bb82c4.jpg",
+                           "path":  "/images/products/product-30-ac421854.jpg",
+                           "bytes":  84227
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/b853abcf634b514bd09453b3f43e52ad.jpg",
+                           "path":  "/images/products/product-31-b853abcf.jpg",
+                           "bytes":  162420
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/be603b3651539610df7cde8721a3f4fc.jpg",
+                           "path":  "/images/products/product-32-be603b36.jpg",
+                           "bytes":  177564
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/beeaf6c6b16d9c71d4c92f6d59de6026.jpg",
+                           "path":  "/images/products/product-33-beeaf6c6.jpg",
+                           "bytes":  122865
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/c510179fa08fcf04c415c0a04bc0a1de.jpg",
+                           "path":  "/images/products/product-34-c510179f.jpg",
+                           "bytes":  122986
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/c66f57dfcda6eadfa1245b1abadad89e.jpg",
+                           "path":  "/images/products/product-35-c66f57df.jpg",
+                           "bytes":  40397
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/dd2fd71c5a040a3b55ee93c1d98600d7.jpg",
+                           "path":  "/images/products/product-36-dd2fd71c.jpg",
+                           "bytes":  96168
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/e225540ffda1202985b8a933a5f7a71e.jpg",
+                           "path":  "/images/products/product-37-e225540f.jpg",
+                           "bytes":  182334
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/ec9dca8f906d0911a9c4b7f8f956c116.jpg",
+                           "path":  "/images/products/product-38-ec9dca8f.jpg",
+                           "bytes":  110918
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/efdd278c7a0cdd09a83dee13f54bcf7a.jpg",
+                           "path":  "/images/products/product-39-efdd278c.jpg",
+                           "bytes":  105916
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/f7d2481706ae217e1ca53dcc148aef0c.jpg",
+                           "path":  "/images/products/product-40-f7d24817.jpg",
+                           "bytes":  331432
+                       },
+                       {
+                           "remoteUrl":  "https://krishnamurtikalakendra.in/Coag/assets/setting/fcd9f79a1cf5b0e46e15e61f2bb5fa5c.jpg",
+                           "path":  "/images/products/product-41-fcd9f79a.jpg",
+                           "bytes":  478993
+                       }
+                   ],
+    "videos":  [
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/2dK7bSYvF2g"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/DbyCTVIO-X4"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/ib20zZDCkhE"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/mdWJm8qF8tU"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/MWgXvqoSFTg"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/os877oGq31E"
+                   },
+                   {
+                       "embedUrl":  "https://www.youtube.com/embed/xCtBJQA2ZKI"
+                   }
+               ]
+}
